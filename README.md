@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi. This is Rushi(Rishikesh)/23.</h1>
-<h3 align="center">Yet a student(MCA 1st).</h3>
+<h3 align="center">Yet a student(MCA final).</h3>
 <h3 align="center">My github will be filled by projects and solutions-could be introduced by academics or shear interest might yield.
      Solution in context that software will be an aid for a problem.
 </h3>
