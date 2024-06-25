@@ -9,9 +9,12 @@
 
 - 📫 How to reach me **rpdiwte@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yB4tgMeDi9Br60w6LukgReYWDQsuSvnN/view?usp=drive_link](https://drive.google.com/file/d/1yB4tgMeDi9Br60w6LukgReYWDQsuSvnN/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/rushikesh-diwate-43227a222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rushikesh-diwate-43227a222" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10318121/rishidt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10318121/rishidt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
