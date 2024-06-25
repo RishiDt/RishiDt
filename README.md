@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Rushikesh Diwate(Diwute)</h1>
 <h3 align="center">Application Developer</h3>
 
-- 🔭 I’m currently working on [dhatnoon](private)
+- 🔭 I’m currently working on **Flutter**
 
 - 👯 I’m looking to collaborate on **Flutter, Android, Node, Firebase**
 
